@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "faq_collections",
+  "info": {
+    "singularName": "faq-collection",
+    "pluralName": "faq-collections",
+    "displayName": "FAQCollection",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    },
+    "questions": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::question.question"
+    }
+  }
+}
