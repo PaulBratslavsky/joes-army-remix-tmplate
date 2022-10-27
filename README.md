@@ -1,6 +1,9 @@
 # Welcome to Joe's Army Remix Starter Template!
 
+[Coding After Thirty](https://www.youtube.com/codingafterthirty) 
+
 - [Remix Docs](https://remix.run/docs)
+- [Strapi Docs ](https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html)
 
 ## Template set up
 
