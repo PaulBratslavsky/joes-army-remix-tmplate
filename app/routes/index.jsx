@@ -1,10 +1,4 @@
-// import { useLoaderData } from "@remix-run/react";
-// import { getStrapiData } from "~/api/posts/get-all-posts.server";
-
-// export async function loader() {
-//   const response = await getAllPosts();
-//   return response.json();
-// }
+gi
 
 export default function HomeRoute() {
   // const { data } = useLoaderData();
